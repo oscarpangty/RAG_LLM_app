@@ -1,4 +1,4 @@
-RAG LLM APP. Descriptions and introductions will be added later. 
+RAG LLM APP. LLM can respond based on uploaded PDF file and conversation history.
 ![Alt text](RAG.png)
 
 
